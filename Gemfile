@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
-ruby '2.4.1'
+ruby '2.7.4'
 gem 'sinatra'
 gem 'puma'
